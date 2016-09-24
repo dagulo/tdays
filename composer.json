@@ -1,0 +1,19 @@
+{
+    "name": "dagulo/tdays",
+    "type": "library",
+    "description": "Three days na lang",
+    "keywords": [ "Three days" ],
+    "homepage": "http://www.cerveo.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Agulo",
+            "email": "dennisagulo@gmail.com",
+            "homepage": "http://www.cerveo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
+
